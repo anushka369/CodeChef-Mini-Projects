@@ -10,8 +10,9 @@ This repository contains six beginner-friendly projects implemented in multiple 
 2. **Calculator** – A functional calculator that performs arithmetic operations.
 3. **Digital Clock & Countdown Timer** – A real-time clock and a customizable countdown timer.
 4. **Password Generator** – Generates secure passwords using string manipulation and randomization.
-5. **Rock, Paper, Scissors** – The classic game implemented with user input, randomness, and score tracking.
-6. **Hangman** – A word-guessing game using lists, loops, and game logic.
+5. **Username Recommendation System** – Generates usernames using the user's email ID as input.
+6. **Rock, Paper, Scissors** – The classic game implemented with user input, randomness, and score tracking.
+7. **Hangman** – A word-guessing game using lists, loops, and game logic.
 
 ---
 
@@ -52,6 +53,12 @@ repo-root/
 │   │-- Password Generator.cpp
 │   │-- Password Generator.java
 │   │-- Password Generator.py
+|
+│--- Username Recommendation System/
+│   │-- Username Recommendation System.c
+│   │-- Username Recommendation System.cpp
+│   │-- Username Recommendation System.java
+│   │-- Username Recommendation System.py
 |
 │--- Rock, Paper, Scissors!/
 │   │-- Rock Paper Scissors.c
