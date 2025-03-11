@@ -8,13 +8,12 @@ string_special = '~!@#$%^&*()'
 
 def userInput():
     length = int(input("Enter the length of the password: "))
-    use_special_chars = input("Include special characters?(yes/no):").lower() == 'yes'
-    use_numbers = input("Include numbers?(yes/no): ").lower() == 'yes'
+    use_special_chars = input("Include special characters? (yes/no): ").lower() == 'yes'
+    use_numbers = input("Include numbers? (yes/no): ").lower() == 'yes'
     return(length, use_special_chars, use_numbers)
 
-# Update the code below below this line
+# Generates a random password based on user preferences
 def generate_password(length, use_special_chars, use_numbers):
-    """Generates a random password based on user preferences."""
     password = ''
 
     # Generate remaining characters
@@ -37,6 +36,7 @@ def generate_password(length, use_special_chars, use_numbers):
     return password
 
 
+# Driver code
 if __name__ == '__main__':
     length, use_special_chars, use_numbers = userInput()
     generated_password = generate_password(length, use_special_chars, use_numbers)
