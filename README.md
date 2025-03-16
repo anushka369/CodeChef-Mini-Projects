@@ -72,7 +72,7 @@ repo-root/
 │   │-- Hangman.java
 │   │-- Hangman.py
 |
-└── ...
+└── README.md
 ```
 
 ---
