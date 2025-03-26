@@ -20,7 +20,7 @@ This repository contains six beginner-friendly projects covered in [**CodeChef**
 
 - **C** (GCC Compiler)
 - **C++** (G++ Compiler)
-- **Python** (Latest Version)
+- **Python** (PyPy)
 - **Java** (JDK)
 
 ---
@@ -43,10 +43,10 @@ repo-root/
 │   │-- Calculator.py
 |
 │--- Digital Clock & Countdown Timer/
-│   │-- Digital Clock and Countdown Timer.c
-│   │-- Digital Clock and Countdown Timer.cpp
-│   │-- Digital Clock and Countdown Timer.java
-│   │-- Digital Clock and Countdown Timer.py
+│   │-- Digital Clock & Countdown Timer.c
+│   │-- Digital Clock & Countdown Timer.cpp
+│   │-- Digital Clock & Countdown Timer.java
+│   │-- Digital Clock & Countdown Timer.py
 |
 │--- Password Generator/
 │   │-- Password Generator.c
@@ -80,27 +80,27 @@ repo-root/
 ## How to Run 🎯
 
 ### C
-1. Compile and run:
+Compile and run:
    ```sh
    gcc number-guessing-game.c -o number-guessing-game
    ./number-guessing-game
    ```
 
 ### C++
-1. Compile and run:
+Compile and run:
    ```sh
    g++ number-guessing-game.cpp -o number-guessing-game
    ./number-guessing-game
    ```
 
 ### Python
-1. Run directly:
+Run directly:
    ```sh
    python number-guessing-game.py
    ```
 
 ### Java
-1. Compile and run:
+Compile and run:
    ```sh
    javac number-guessing-game.java
    java number-guessing-game
