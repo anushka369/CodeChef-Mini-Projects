@@ -1,6 +1,6 @@
 # CodeChef Mini Projects 🧩
 
-This repository contains six beginner-friendly projects covered in [**CodeChef**](https://www.codechef.com/dashboard), implemented in multiple programming languages like: **C, C++, Python, and Java**. These projects teach the fundamental programming concepts like user input, conditional statements, loops, randomness.
+This repository contains seven beginner-friendly projects covered in [**CodeChef**](https://www.codechef.com/dashboard), implemented in multiple programming languages like: **C, C++, Python, and Java**. These projects teach the fundamental programming concepts like user input, conditional statements, loops, randomness.
 
 ---
 
