@@ -108,7 +108,7 @@ Compile and run:
 
 ---
 
-## 🫂 **Contributing**
+## 🫂 Contributing
 
 Contributions are welcome! To contribute, please follow these steps:
 
